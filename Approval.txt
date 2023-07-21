@@ -11,7 +11,6 @@
 1-0-4-8-0-u-0-_-a-4-8-0 sahil trial 
 1-0-2-1-5-u-0-_-a-2-1-5   Adrees paid 19 July
 1-0-2-2-2-u-0-_-a-2-2-2 Ahad paid 19 july
-1-0-2-7-7-u-0-_-a-2-7-7   jawadfree
 1-0-2-3-5-u-0-_-a-2-3-5  sahil paid
 1-0-2-2-4-u-0-_-a-2-2-4  Ahad paid 18 july
 1-0-5-0-6-u-0-_-a-5-0-6   Ahad paid 19july
@@ -23,8 +22,6 @@
 1-0-2-2-1-u-0-_-a-2-2-1  sk moto z4
 1-0-2-7-0-u-0-_-a-2-7-0  sahil paid2
 1-0-7-1-6-u-0-_-a-7-1-6   vivo sk
-1-0-2-3-1-u-0-_-a-2-3-1   jk free
-1-0-2-1-8-u-0-_-a-2-1-8   jk free 2
 1-0-2-8-9-u-0-_-a-2-8-9  zaingill 18july
 1-0-2-4-8-u-0-_-a-2-4-8   zaingill 18 july
 1-0-2-6-9-u-0-_-a-2-6-9 Walid 18 july paid
