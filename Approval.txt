@@ -17,7 +17,7 @@
 1-0-2-7-9-u-0-_-a-2-7-9 Shaheer Paid 20 july
 1-0-2-4-0-u-0-_-a-2-4-0  neelam paid
 1-0-4-9-4-u-0-_-a-4-9-4  sarfraz  paid
-1-0-4-8-0-u-0-_-a-4-8-0 sahil trial 
+1-0-4-8-0-u-0-_-a-4-8-0 sahil paid
 1-0-2-1-5-u-0-_-a-2-1-5   Adrees paid 19 July
 1-0-2-2-2-u-0-_-a-2-2-2 Ahad paid 19 july
 1-0-2-3-5-u-0-_-a-2-3-5  sahil paid
@@ -34,5 +34,5 @@
 1-0-2-6-9-u-0-_-a-2-6-9 Walid 18 july paid
 1-0-2-2-0-u-0-_-a-2-2-0  Nimra free
 1-0-1-8-2-u-0-_-a-1-8-2 Ali paid 18 july
-1-0-2-4-5-u-0-_-a-2-4-5 Sahil Trial
+1-0-2-4-5-u-0-_-a-2-4-5 Sahil paid
 1-0-2-1-1-u-0-_-a-2-1-1 Sahil paid 18 june
